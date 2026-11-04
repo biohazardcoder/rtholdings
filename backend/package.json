@@ -38,6 +38,6 @@
     "@types/passport-jwt": "^4.0.1",
     "prisma": "^7.10.1",
     "ts-node": "^10.9.2",
-    "typescript": "^6.3.3" 
+    "typescript": "^6.0.2"
   }
 }
